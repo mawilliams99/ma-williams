@@ -1,5 +1,9 @@
 ---
-title: "My first story"
+title: "Our Role as Data Analysts"
+author: "Madison Williams"
 ---
 
-It was a dark and stormy night...
+Data is the most powerful currency in the world. With technological advancements organizations and corporations are able to access an unprecedented amount of data on society. As data scientists we have to think about what kind of power that data holds. What roles do we want to play in this new era? Data can show us when power is not distributed equally in society. 
+We have seen the dark side of data analysis at its origins in slavery and eugenics. Decisions around data were handled solely by the oppressor. We’ve seen that data analysis which is not intersectional can be dangerous. Oppressors used data to justify systems of oppression on a “scientific” basis. 
+	Some of the biggest changes in our society came from people noticing trends in data and doing something about it. A good data scientist should look at things from an intersectional perspective at all times. This will help the quality of our data and research by thinking about the lives behind the data. We have to acknowledge the power data has and then imagine the possibilities. Data feminism helps us think about how data is used to uphold inequalities and how data can be used to challenge these inequalities. We also have to think about our role in who thrives in the data science field. 
+How can we give people with intersecting identities access to the power which data provides? All data scientists need to be asking themselves, “How can we use data to remake the world?” This is all a difficult process and we need to ask ourselves deep questions about our identities. We all need to address how we have benefitted from these systems of oppression. Data feminism is about observing the power data has and using it to challenge oppressive systems. All data scientists, especially those occupying places of privilege, need to think about data feminism. Personally I believe strongly that good data science is dependent on data feminism. 
