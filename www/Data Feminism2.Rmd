@@ -1,0 +1,12 @@
+---
+title: "The Power Chapter"
+author: "Madison Williams"
+---
+
+These first chapters of Data Feminism have caused me to think about the qualities of a good data scientist. Qualities that came to my mind were analytical, organized, and committed to doing unbiased analysis. This book has expanded my view of what a good data analyst needs to think about. A good data scientist is a data feminist and data feminists believe strongly in co-liberation. Co-liberation is the belief that liberating the oppressed within our society will liberate all of us. With the goal of co-liberation in mind we have to think about more than just the analytical side of data science. Better data analysis occurs when you take into account the culture and community of people behind the data. This is a difficult thing to do especially when many data scientists are from the dominant social group, often white and male. 
+As data analysts we are also storytellers and we cannot tell a complete story while ignoring the cultural context. It is easier to just focus on the numbers but this book shows that that does not produce the best work. Data is incredibly powerful and it can be used as a tool for liberation. How can we begin to make the connection between data analysis projects and the communities which they are situated in? How can we use data analysis to assist current social justice work without continuing to silence those communities? How can we get the large numbers of male and often white data scientists interested in co-liberation? These are big questions. I think it is time for the data science community to have a conversation about what role we want to play. Scientific research about disadvantaged people often uses a community for their knowledge. This leaves communities in a similar position while furthering the careers of scientists.  I’d like to live in a world where disadvantaged communities can connect with analysis without continuing to be oppressed and unheard. 
+
+
+References: 
+Catherine D'Ignazio and Lauren Klein.Data Feminism, The Power Chapter.(2020). Retrieved from
+https://data-feminism.mitpress.mit.edu/dash/pub/vi8obxh7/overview
