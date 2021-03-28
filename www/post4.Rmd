@@ -1,0 +1,12 @@
+---
+title: "Neutral Data Science is a Privlidge"
+author: "Madison Williams"
+---
+
+Many scientists I have met often choose science because they would prefer to work with numbers and data sets instead of a career centered around emotions and opinions. I think most data scientists would consider their work to be neutral. While as scientists we of course have our own opinions I think most people believe that data will tell us the full unbiased story. This is discussed in *Chapter 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints* as they look at a study which included emotion in their data visualization. The visualization was about United States gun deaths and it focused on how many years each victim of gun violence would have lived. The study won awards for its impact but it also received criticism due to its purposeful design to evoke emotion. Isn’t data science supposed to be neutral? 
+	As someone who is from Boulder, Colorado I could never imagine a way to look at United States gun deaths without emotion. Colorado has been the location of many mass shootings throughout my lifetime and most recently one took place at my local grocery store. When I see any data visualizations around gun death or violence these emotions are brought up no matter how “neutral” the study intends to be. As data scientists we often study power and trends in society and these trends are influenced by our racist, classist, sexist, and homphobic society. Some people do not have the privilege to look at a visualization without emotion due to their lived experiences. As data sciences we are doing a disservice to the people who are behind the numbers of inequality and violence by not creating emotional visualizations. Our emotions are the one way in which we all relate and avoiding them to be “neutral” allows the oppressors within our society to not acknowledge the emotional harm which has been created. 
+
+
+References: 
+Catherine D'Ignazio and Lauren Klein.Data Feminism, Chapter 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints.(2020). Retrieved from
+https://data-feminism.mitpress.mit.edu/dash/pub/vi8obxh7/overview
