@@ -1,5 +1,0 @@
----
-title: "About Me"
----
-
-Madison Williams (she/her) is a senior Data Science major and Environmental Science & Policy minor at Smith College. Madison is passionate about the intersection between data analysis, environmental science, and inequalities. 

@@ -1,6 +1,7 @@
 ---
-title: "The Power Chapter"
+title: "Power in Data Feminism"
 author: "Madison Williams"
+theme: journal
 ---
 
 Data can help us observe power dynamics in society. As data feminists it is our responsibility to observe power dynamics and help protect minoritized groups. The authors of the book Data Feminism believe that more intersectional data helps us do good data science. Most projects whether for funding or policy need data to help support their claims. Systems of power often replicate themselves in our society and most data scientists are members of the dominant social group. Data scientists decide what data is valuable and can help start a conversation. A lack of diversity in data science has been shown in the data we have available to us. The United States is desperately lacking in maternal data and this partly because men lead the conversation on what is valuable in data science. 

@@ -9,9 +9,10 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
+<meta name="author" content="Madison Williams" />
 
 
-<title>About Me</title>
+<title>Collect, Analyze, Imagine, Teach</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -28,6 +29,9 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <script src="site_libs/accessible-code-block-0.0.1/empty-anchor.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
@@ -208,6 +212,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -215,6 +282,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-sm-12 col-md-4 col-lg-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-sm-12 col-md-8 col-lg-9">
 
 
 
@@ -255,25 +332,18 @@ $(document).ready(function () {
   </a>
   <ul class="dropdown-menu" role="menu">
     <li>
-      <a href="post1.html">Our Role as Data Analysts</a>
+      <a href="post1.html">Post 1</a>
     </li>
     <li>
-      <a href="post2.html">Power in Data Feminism</a>
+      <a href="post2.html">Post 2</a>
     </li>
     <li>
-      <a href="post3.html">Collect, Analyze, Imagine, Teach</a>
+      <a href="post3.html">Post 3</a>
     </li>
     <li>
-      <a href="post4.html">Neutral Data Science is a Privlidge</a>
+      <a href="post4.html">Post 4</a>
     </li>
   </ul>
-</li>
-<li>
-  <a href="resume.html">
-    <span class="fas fa-file"></span>
-     
-    Resume
-  </a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -298,16 +368,19 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">About Me</h1>
+<h1 class="title toc-ignore">Collect, Analyze, Imagine, Teach</h1>
+<h4 class="author">Madison Williams</h4>
 
 </div>
 
 
-<p><img src="https://www.smith.edu/sites/default/files/styles/img-faculty-detail/public/media/Documents/Sustainability/madisonwilliams-500x500.png?itok=-nfXieFw" /></p>
-<p>Madison Williams (she/her) is a senior Data Science major and Environmental Science &amp; Policy minor at Smith College. Madison is passionate about the intersection between data analysis, environmental science, and inequalities. At Smith College I’ve realized that powerful conversations often are started by data, which is why I study both statistical data science and environmental science. During my time at Smith I have done data analysis work for the National Oceanic and Atmospheric Administration and the Cary Institute of Ecosystem Studies. While at NOAA, I used computing to analyze chemical concentrations in the Great Lakes over the past 40 years. By analyzing this data we were able to make data visualizations that showed emerging environmental problems for the Great Lakes of North America. I also created models which used past data to predict future changes in the Great Lakes. At the Cary Institute, I analyzed soil and permafrost data in the Alaskan boreal forests. My team was able to track permafrost melting over the past decades and theorize how climate change will alter the Boreal forest environment. Through this work, I experienced how important data is when monitoring changes to our environment. I am most passionate about monitoring forest ecosystems and I will be continuing this work interning for the Smithsonian and the Nature Conservancy.</p>
+<p>These first chapters of Data Feminism have caused me to think about the qualities of a good data scientist. Qualities that came to my mind were analytical, organized, and committed to doing unbiased analysis. This book has expanded my view of what a good data analyst needs to think about. A good data scientist is a data feminist and data feminists believe strongly in co-liberation. Co-liberation is the belief that liberating the oppressed within our society will liberate all of us. With the goal of co-liberation in mind we have to think about more than just the analytical side of data science. Better data analysis occurs when you take into account the culture and community of people behind the data. This is a difficult thing to do especially when many data scientists are from the dominant social group, often white and male. As data analysts we are also storytellers and we cannot tell a complete story while ignoring the cultural context. It is easier to just focus on the numbers but this book shows that that does not produce the best work. Data is incredibly powerful and it can be used as a tool for liberation. How can we begin to make the connection between data analysis projects and the communities which they are situated in? How can we use data analysis to assist current social justice work without continuing to silence those communities? How can we get the large numbers of male and often white data scientists interested in co-liberation? These are big questions. I think it is time for the data science community to have a conversation about what role we want to play. Scientific research about disadvantaged people often uses a community for their knowledge. This leaves communities in a similar position while furthering the careers of scientists. I’d like to live in a world where disadvantaged communities can connect with analysis without continuing to be oppressed and unheard.</p>
+<p>References: Catherine D’Ignazio and Lauren Klein.Data Feminism, The Power Chapter.(2020). Retrieved from <a href="https://data-feminism.mitpress.mit.edu/dash/pub/vi8obxh7/overview" class="uri">https://data-feminism.mitpress.mit.edu/dash/pub/vi8obxh7/overview</a></p>
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -340,6 +413,32 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

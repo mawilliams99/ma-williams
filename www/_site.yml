@@ -6,33 +6,29 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "About Me"
-      icon: fa-user-check
-      href: about.html
     - text: "Blog"
       icon: fa-newspaper
       menu:
-        - text: "Post 1"
+        - text: "Our Role as Data Analysts"
           href: post1.html
-        - text: "Post 2"
+        - text: "Power in Data Feminism"
           href: post2.html
-        - text: "Post 3"
+        - text: "Collect, Analyze, Imagine, Teach"
           href: post3.html
-        - text: "Post 4"
+        - text: "Neutral Data Science is a Privlidge"
           href: post4.html
+    - text: "Resume"
+      icon: fa-file
+      href: resume.html
   right:
     - icon: fa-envelope 
-      href: mailto:bbaumer@smith.edu
+      href: mailto:mawilliams@smith.edu
     - icon: fa-github
-      href: http://www.github.com/beanumber
-    - icon: fa-twitter
-      href: http://www.twitter.com/BaumerBen
-    - icon: fa-linkedin
-      href: https://www.linkedin.com/in/ben-baumer-809b3a75
+      href: http://www.github.com/mawilliams99
 
 output:
   html_document:
-    theme: lumen
+    theme: journal
     highlight: pygments
     toc: true
     toc_float: true

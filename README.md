@@ -4,6 +4,7 @@
 # rmarkdown-website
 
 <!-- badges: start -->
+
 <!-- badges: end -->
 
 a template for creating a website in R Markdown
@@ -12,8 +13,8 @@ a template for creating a website in R Markdown
 
 1.  Fork this repository.
 2.  Turn on hosting via GitHub Pages
-    1.  Settings -&gt; GitHub Pages -&gt; Source -&gt; select “master
-        branch `/docs` folder”
+    1.  Settings -\> GitHub Pages -\> Source -\> select “master branch
+        `/docs` folder”
 3.  View your website at given URL
     1.  <https://YOUR-GITHUB-USERNAME.github.io/rmarkdown-website/>
 
@@ -24,6 +25,8 @@ a template for creating a website in R Markdown
     2.  Add new files as necessary
     3.  Update `_site.yml` as necessary
 2.  Render entire site by running:
+
+<!-- end list -->
 
 ``` r
 rmarkdown::render_site("www")
@@ -44,7 +47,7 @@ rmarkdown::render_site("www")
 
 Please note that [all pages hosted via GitHub Pages are public on the
 internet](https://docs.github.com/en/github/working-with-github-pages/about-github-pages),
-even if the repository is **private**!!
+even if the repository is **private**\!\!
 
 However, there are few steps you can take to reduce the chance of your
 blog post going viral. Please note that these are [security by
@@ -58,6 +61,8 @@ techniques that are NOT robust.
     might index all pages. \]
 2.  You can at least make the URL harder to remember or copy-and-paste
     by pading the name with a random MD5 hash.
+
+<!-- end list -->
 
 ``` r
 obscure_filename <- paste0(
@@ -74,19 +79,19 @@ obscure_filename
 You might consider writing your resume in **pagedown** and adding it to
 your website. Like these:
 
--   <https://pagedown.rbind.io/html-resume>
--   <http://nickstrayer.me/cv/>
--   [Documentation](https://pagedown.rbind.io/#fig:resume-relaxed)
+  - <https://pagedown.rbind.io/html-resume>
+  - <http://nickstrayer.me/cv/>
+  - [Documentation](https://pagedown.rbind.io/#fig:resume-relaxed)
 
 ## Resources
 
--   [R Markdown
+  - [R Markdown
     websites](https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html)
--   [Bootstrap 3.3
+  - [Bootstrap 3.3
     components](https://getbootstrap.com/docs/3.3/components/)
--   [Bootswatch themes](https://bootswatch.com/3/)
--   [Font Awesome icons](https://fontawesome.com/icons?d=gallery&m=free)
--   [**bsplus**](https://ijlyttle.github.io/bsplus/articles/bsplus.html)
+  - [Bootswatch themes](https://bootswatch.com/3/)
+  - [Font Awesome icons](https://fontawesome.com/icons?d=gallery&m=free)
+  - [**bsplus**](https://ijlyttle.github.io/bsplus/articles/bsplus.html)
     package for additional Bootstrap components
--   📣: [**bslib**](https://rstudio.github.io/bslib/) library for
+  - 📣: [**bslib**](https://rstudio.github.io/bslib/) library for
     Bootstrap theming

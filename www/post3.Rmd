@@ -1,6 +1,7 @@
 ---
 title: "Collect, Analyze, Imagine, Teach"
 author: "Madison Williams"
+theme: journal
 ---
 
 These first chapters of Data Feminism have caused me to think about the qualities of a good data scientist. Qualities that came to my mind were analytical, organized, and committed to doing unbiased analysis. This book has expanded my view of what a good data analyst needs to think about. A good data scientist is a data feminist and data feminists believe strongly in co-liberation. Co-liberation is the belief that liberating the oppressed within our society will liberate all of us. With the goal of co-liberation in mind we have to think about more than just the analytical side of data science. Better data analysis occurs when you take into account the culture and community of people behind the data. This is a difficult thing to do especially when many data scientists are from the dominant social group, often white and male. 

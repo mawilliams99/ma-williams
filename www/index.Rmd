@@ -1,19 +1,11 @@
 ---
-title: "My website"
+title: "About Me"
 output:
   html_document:
     toc: false
 ---
+![](https://www.smith.edu/sites/default/files/styles/img-faculty-detail/public/media/Documents/Sustainability/madisonwilliams-500x500.png?itok=-nfXieFw)
 
-Write stuff in Markdown here. Like **bold** things and *italic* things. 
 
-And images:
-
-![](https://media.giphy.com/media/1hqYk0leUMddBBkAM7/giphy.gif)
-
-And don't forget about R code:
-
-```{r}
-knitr::kable(mtcars)
-```
+Madison Williams (she/her) is a senior Data Science major and Environmental Science & Policy minor at Smith College. Madison is passionate about the intersection between data analysis, environmental science, and inequalities. At Smith College I've realized that powerful conversations often are started by data, which is why I study both statistical data science and environmental science. During my time at Smith I have done data analysis work for the National Oceanic and Atmospheric Administration and the Cary Institute of Ecosystem Studies. While at NOAA, I used computing to analyze chemical concentrations in the Great Lakes over the past 40 years. By analyzing this data we were able to make data visualizations that showed emerging environmental problems for the Great Lakes of North America. I also created models which used past data to predict future changes in the Great Lakes. At the Cary Institute, I analyzed soil and permafrost data in the Alaskan boreal forests. My team was able to track permafrost melting over the past decades and theorize how climate change will alter the Boreal forest environment. Through this work, I experienced how important data is when monitoring changes to our environment. I am most passionate about monitoring forest ecosystems and I will be continuing this work interning for the Smithsonian and the Nature Conservancy. 
 

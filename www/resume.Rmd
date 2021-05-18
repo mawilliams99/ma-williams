@@ -1,0 +1,23 @@
+---
+title: "Resume"
+author: "Madison Williams"
+date: "5/18/2021"
+output: html_document
+theme: journal
+---
+
+
+***Education***
+
+Smith College, Northampton, MA 
+September 2017-May 2021 
+Major: Statistical Data Science
+Minor: Environmental Science and Policy
+
+***Experiences***
+
+*Data Analysis Intern*, **The Cary Institute of Ecosystem Sciences** 
+May-August 2020 
+Analyzed permafrost data from the Alaskan Boreal Forests 
+Presented results from analysis and future forest changes 
+Performed statistical analysis in RStudio with RandomForest package 
