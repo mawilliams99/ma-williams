@@ -14,10 +14,4 @@ September 2017-May 2021
 Major: Statistical Data Science
 Minor: Environmental Science and Policy
 
-***Experiences***
-
-*Data Analysis Intern*, **The Cary Institute of Ecosystem Sciences** 
-May-August 2020 
-Analyzed permafrost data from the Alaskan Boreal Forests 
-Presented results from analysis and future forest changes 
-Performed statistical analysis in RStudio with RandomForest package 
+I'm currently working on adding my resume to this site in a different format. Check back soon! 
