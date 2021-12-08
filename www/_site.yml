@@ -6,7 +6,7 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "Blog"
+    - text: "Blog"ss
       icon: fa-newspaper
       menu:
         - text: "Our Role as Data Analysts"
@@ -22,7 +22,7 @@ navbar:
       href: resume.html
   right:
     - icon: fa-envelope 
-      href: mailto:mawilliams@smith.edu
+      href: mailto:williams.madison101@gmail.com
     - icon: fa-github
       href: http://www.github.com/mawilliams99
 
