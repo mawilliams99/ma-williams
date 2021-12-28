@@ -6,7 +6,7 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "Blog"ss
+    - text: "Blog"
       icon: fa-newspaper
       menu:
         - text: "Our Role as Data Analysts"
