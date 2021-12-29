@@ -1,6 +1,6 @@
 ---
-title: "Lijia Yu's resume"
-author: Lijia Yu
+title: "Resume"
+author: Madison Williams 
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
@@ -10,31 +10,56 @@ output:
 #knit: pagedown::chrome_print
 ---
 
-Aside
+<!-- Contact Me! {#contact} -->
+<!-- ================================================================================ -->
+
+### <i class="fa fa-envelope"></i> williams.madison101@gmail.com
+
+### <i class="fa fa-github"></i> [github.com/mawilliams99](https://github.com/mawilliams99)
+
+**I like to apply to work opportunities which speak to my passions, the environment and social justice. I am incredibly grateful for the experiences I have had and I'm excited for the future.**
+
+Education {data-icon=graduation-cap data-concise=true}
+================================================================================
+
+### Smith College
+
+**B.A. in Statistical Data Sciences** and a minor in Environmental Science & Policy
+
+Class of 2021 
+
+*Northampton, Massachusetts. United States*
+
+
+Professional Experience: {data-icon=laptop}
 ================================================================================
 
 
-![Lijia Yu](https://avatars1.githubusercontent.com/u/895125?s=400&v=4){width=80%}
+#### *Lab Intern*, ForestGEO Ecosystems and Climate Lab  Institute for Global Environmental Strategies (IGES)
+
+June 2021 - Current 
+
+- Investigate and review hundreds of scientific studies included in the ForestGEO ForC database
+- Used Excel, GitHub, and RStudio to revise incomplete data and create additional data
+- Attended ForestGeo seminars and weekly lab meetings 
+- Produced a research report and presentation of my work
 
 
-Contact Info {#contact}
---------------------------------------------------------------------------------
+#### *Lab Intern*, ForestGEO Ecosystems and Climate Lab  Institute for Global Environmental Strategies (IGES)
 
-- <i class="fa fa-envelope"></i> lijia.yu@outlook.com
-- <i class="fa fa-github"></i> [github.com/yulijia](https://github.com/yulijia)
-- <i class="fa fa-phone"></i> +1 000-000-0000
-- For more information, please contact me via email.
+June 2021 - Current 
 
+- Investigate and review hundreds of scientific studies included in the ForestGEO ForC database
+- Used Excel, GitHub, and RStudio to revise incomplete data and create additional data
+- Attended ForestGeo seminars and weekly lab meetings 
+- Produced a research report and presentation of my work
 
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Experienced in statistical analysis, statistical learning models, and optimization methods.
-
-- Full experience with next generation sequencing data analysis.
-
-- Highly skilled in R, Bash, Perl, Python, LaTeX
-
+-Proficient in Python, DataWrapper, Java, and Rstudio (GGPlot, Shiny, RandomForest)
+-Expericence with Microsoft Office
+-Professionally trained in [liberating structures](https://www.liberatingstructures.com), alternative way to approach and design how people work together
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
@@ -43,155 +68,3 @@ This resume was made with the R package [**pagedown**](https://github.com/rstudi
 
 Last updated on `r Sys.Date()`.
 
-
-
-Main
-================================================================================
-
-Lijia Yu {#title}
---------------------------------------------------------------------------------
-
-### Currently searching for a PhD student position
-
-Please note that this is a *real* resume, and I'm really looking for a PhD
-student position at the moment. I made this resume because Yihui asked me
-if I'd like to test the **pagedown** package with my resume. If you are
-interested in my background and skills, please feel free to contact me.
-
-
-Education {data-icon=graduation-cap data-concise=true}
---------------------------------------------------------------------------------
-
-### Beijing University of Chemical Technology
-
-B.S. in Information and Computing Sciences
-
-Beijing, China
-
-2010
-
-Thesis: Dyadic wavelet and its application in edge detection
-
-### University of Chinese Academy of Sciences
-
-M.S. in Bioinformatics
-
-Beijing, China
-
-2014
-
-Thesis: A multi-omics study for intra-individual divergence of the distributions between mRNA isoforms in mammals
-
-
-Research Experience {data-icon=laptop}
---------------------------------------------------------------------------------
-
-### Graduate Research Assistant
-
-Beijing Institute of Genomics, Chinese Academy of Sciences
-
-Beijing, China
-
-2011 - 2014
-
-- Performed computational biology research towards understanding regulation of alternative splicing in human and mouse transcriptome.
-- Found EGFR pathway related mutations, aimed to understand the impacts of cancer mutations on EGFR signaling pathway.
-
-### Bioinformatican
-
-My Health Gene Technology Co., Ltd.
-
-Beijing, China
-
-2015 - 2016
-
-- Investigated how cancer cells spread to other parts of the body at the single cell level.
-
-### Visiting Scientist
-
-University of Alabama at Birmingham
-
-AL, USA
-
-2016 - 2018
-
-- Investigated the role of mitochondria in development of cancer.
-- Investigated the evolution of genome architecture and its role in important evolutionary events.
-- Detected thrombotic thrombocytopenic purpura related mutations in mutiple patients' blood genome.
-  
-
-Professional Experience {data-icon=suitcase}
---------------------------------------------------------------------------------
-
-### Data Scientist, intern
-
-SupStat Inc.
-
-Beijing, China
-
-2014
-
-::: concise
-- Taught R language to beginners. 
-- Wrote Shiny app demos.
-- Converted statistical tutorials from SPSS to R language.
-:::
-
-### Bioinformatician
-
-My Health Gene Technology Co., Ltd.
-
-Beijing, China
-
-2015 - 2016
-
-::: concise
-- Analyzed whole-exome sequencing data. 
-- Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
-- Studied tumor metastasis and wrote research reports. 
-- Also did case studies to identify the genetic defect causing rare disease.
-:::
-
-
-Teaching Experience {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
-
-### Introduction to R Language for Beginners.
-
-Instructor of R and Data Mining Training Courses at SupStat Inc.
-
-Beijing, China
-
-2014
-
-### Computational Biology and Bioinformatics.
-
-Teaching assistant of GBS CB2-201 courses at UAB
-
-AL, USA
-
-2016 - 2017
-
-
-Selected Publications and Posters {data-icon=file}
---------------------------------------------------------------------------------
-
-### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.
-
-Poster for 2013 International Conference of Genomics
-
-Qingdao, China
-
-2014
-
-**Yu L**, Chen B, Zhang Z.
-
-### ESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.
-
-J Cell Sci. 2016 May 15;129(10):2075-84.
-
-N/A
-
-2016 
-
-Sheng Z, **Yu L**, Zhang T, Pei X, Li X, Zhang Z and Du W. 
