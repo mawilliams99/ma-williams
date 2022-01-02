@@ -46,14 +46,14 @@ June 2021 - Current
 
 --------------------------------------------------------------------------------
 
-#### *Lab Intern*, ForestGEO Ecosystems and Climate Lab  Institute for Global Environmental Strategies (IGES)
+#### *Senior Capstone Project*, Smith College & Twin City Metropolitan Council 
 
-June 2021 - Current 
+September 2020 - May 2021
 
-- Investigate and review hundreds of scientific studies included in the ForestGEO ForC database
-- Used Excel, GitHub, and RStudio to revise incomplete data and create additional data
-- Attended ForestGeo seminars and weekly lab meetings 
-- Produced a research report and presentation of my work
+-	Designed a public facing Shiny App studying environmental inequity in the Twin Cities 
+-	Presented our major findings to the Twin City Metropolitan Council  
+-	Completed a research paper summarizing ways the Metropolitan Council can address current environmental inequities in the Twin Cities
+
 
 Skills {#skills}
 --------------------------------------------------------------------------------
