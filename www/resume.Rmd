@@ -24,11 +24,11 @@ Education {data-icon=graduation-cap data-concise=true}
 
 ### Smith College
 
-**B.A. in Statistical Data Sciences** and a minor in Environmental Science & Policy
+B.A. in Statistical Data Sciences and a minor in Environmental Science & Policy
 
 Class of 2021 
 
-*Northampton, Massachusetts. United States*
+Northampton, Massachusetts. United States
 
 
 Professional Experience: {data-icon=laptop}
