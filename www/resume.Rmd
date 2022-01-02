@@ -44,6 +44,7 @@ June 2021 - Current
 - Attended ForestGeo seminars and weekly lab meetings 
 - Produced a research report and presentation of my work
 
+--------------------------------------------------------------------------------
 
 #### *Lab Intern*, ForestGEO Ecosystems and Climate Lab  Institute for Global Environmental Strategies (IGES)
 
@@ -57,9 +58,11 @@ June 2021 - Current
 Skills {#skills}
 --------------------------------------------------------------------------------
 
--Proficient in Python, DataWrapper, Java, and Rstudio (GGPlot, Shiny, RandomForest)
--Expericence with Microsoft Office
--Professionally trained in [liberating structures](https://www.liberatingstructures.com), alternative way to approach and design how people work together
+- Proficient in Python, DataWrapper, Java, and Rstudio (GGPlot, Shiny, RandomForest)
+
+- Expericence with Microsoft Office
+
+- Professionally trained in [liberating structures](https://www.liberatingstructures.com), alternative way to approach and design how people work together
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
