@@ -13,18 +13,19 @@ output:
 <!-- Contact Me! {#contact} -->
 <!-- ================================================================================ -->
 
+**I like to apply to work opportunities which speak to my passions, the environment and social justice. I am incredibly grateful for the experiences I have had and I'm excited for the future.**
+
 #### <i class="fa fa-envelope"></i> williams.madison101@gmail.com
 
 #### <i class="fa fa-github"></i> [github.com/mawilliams99](https://github.com/mawilliams99)
 
-**I like to apply to work opportunities which speak to my passions, the environment and social justice. I am incredibly grateful for the experiences I have had and I'm excited for the future.**
 
 Education {data-icon=graduation-cap data-concise=true}
 ================================================================================
 
 ### Smith College
 
-####B.A. in Statistical Data Sciences and a minor in Environmental Science & Policy
+#### B.A. in Statistical Data Sciences and a minor in Environmental Science & Policy
 
 Class of 2021 
 
@@ -32,10 +33,11 @@ Northampton, Massachusetts. United States
 
 
 Professional Experience: {data-icon=laptop}
-================================================================================
+--------------------------------------------------------------------------------
 
 
-#### *Lab Intern*, ForestGEO Ecosystems and Climate Lab  Institute for Global Environmental Strategies (IGES)
+*Lab Intern*, ForestGEO Ecosystems and Climate Lab  Institute for Global Environmental Strategies (IGES)
+--------------------------------------------------------------------------------
 
 June 2021 - Current 
 
@@ -54,6 +56,17 @@ September 2020 - May 2021
 -	Presented our major findings to the Twin City Metropolitan Council  
 -	Completed a research paper summarizing ways the Metropolitan Council can address current environmental inequities in the Twin Cities
 
+--------------------------------------------------------------------------------
+
+#### *Data Analysis Intern*, The Cary Institute of Ecosystem Sciences  
+
+May 2020 - August 2020 
+
+-	Analyzed permafrost data from the Alaskan Boreal Forests 
+-	Presented results from analysis and future forest changes 
+-	Performed statistical analysis in RStudio with RandomForest package 
+
+--------------------------------------------------------------------------------
 
 Skills {#skills}
 --------------------------------------------------------------------------------
