@@ -13,9 +13,9 @@ output:
 <!-- Contact Me! {#contact} -->
 <!-- ================================================================================ -->
 
-### <i class="fa fa-envelope"></i> williams.madison101@gmail.com
+#### <i class="fa fa-envelope"></i> williams.madison101@gmail.com
 
-### <i class="fa fa-github"></i> [github.com/mawilliams99](https://github.com/mawilliams99)
+#### <i class="fa fa-github"></i> [github.com/mawilliams99](https://github.com/mawilliams99)
 
 **I like to apply to work opportunities which speak to my passions, the environment and social justice. I am incredibly grateful for the experiences I have had and I'm excited for the future.**
 
