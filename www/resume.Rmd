@@ -13,7 +13,7 @@ output:
 <!-- Contact Me! {#contact} -->
 <!-- ================================================================================ -->
 
-**I like to apply to work opportunities which speak to my passions, the environment and social justice. I am incredibly grateful for the experiences I have had and I'm excited for the future.**
+**I like to apply to work opportunities which speak to my passions, environmental conservation and social justice. I am incredibly grateful for the experiences I have had and I'm excited for the future.**
 
 #### <i class="fa fa-envelope"></i> williams.madison101@gmail.com
 
@@ -32,12 +32,12 @@ Class of 2021
 Northampton, Massachusetts. United States
 
 
-Professional Experience: {data-icon=laptop}
---------------------------------------------------------------------------------
+Professional Experience {data-icon=laptop}
+================================================================================
 
+--------------------------------------------------------------------------------
 
 *Lab Intern*, ForestGEO Ecosystems and Climate Lab  Institute for Global Environmental Strategies (IGES)
---------------------------------------------------------------------------------
 
 June 2021 - Current 
 
@@ -68,8 +68,38 @@ May 2020 - August 2020
 
 --------------------------------------------------------------------------------
 
-Skills {#skills}
+#### *Monitoring & Assessment Branch Data Analysis Intern*, National Oceanic and Atmospheric Administration (NOAA) 
+
+June 2019 - August 2019
+
+-	Analyzed PAH concentrations in the Great Lakes 
+-	Analyzed data using Python, RStudio, Pandas, Shiny, and GISMaps
+-	Presented internship and analysis results to the Smith College Center for the Environment, Ecological Design, and Sustainability
+
+Additional Experience {data-icon=pencil-alt}
+================================================================================
+
+#### *Leaders for Equity Centered Design Participant*, Smith College
+
+September 2018 - May 2020
+
+-	Organized an “Art for Healing” event for Smith College with over 200 participants
+- Knowledge of equity and accessibility centered design methods
+-	Facilitated large groups and communities to practice problem solving strategies
+-	Facilitation of social justice centered discussions and workshops
+
 --------------------------------------------------------------------------------
+
+#### *Introduction to Data Science Grader*, Smith College, Professor Albert Kim 
+
+September 2019 - December 2019
+
+-	Weekly grading of 80 data science projects and assignments
+-	Correcting student’s code mistakes within RStudio
+- Understanding of course material and introductory R visualizations and code
+
+Skills {#skills}
+================================================================================
 
 - Proficient in Python, DataWrapper, Java, and Rstudio (GGPlot, Shiny, RandomForest)
 
@@ -77,7 +107,17 @@ Skills {#skills}
 
 - Professionally trained in [liberating structures](https://www.liberatingstructures.com), alternative way to approach and design how people work together
 
-Disclaimer {#disclaimer}
+
+
+[Smith College Conservation Spotlight](https://www.smith.edu/about-smith/sustainable-smith/student-profile/madison-williams)
+================================================================================
+
+[Shiny App for Twin City Metropolitan Council](https://metrotransitmn.shinyapps.io/SmithCollege_MetCouncil_2021/)
+================================================================================
+
+
+
+Disclaimer 
 --------------------------------------------------------------------------------
 
 This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
