@@ -6,9 +6,6 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "Blog"
-      icon: fa-newspaper
-      #menu:
         
     - text: "Resume"
       icon: fa-file
