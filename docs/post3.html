@@ -14,7 +14,8 @@
 
 <title>Collect, Analyze, Imagine, Teach</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/journal.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -33,7 +34,6 @@
 <link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
 <script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<script src="site_libs/accessible-code-block-0.0.1/empty-anchor.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
@@ -286,12 +286,12 @@ div.tocify {
 
 <!-- setup 3col/9col grid for toc_float and main content  -->
 <div class="row">
-<div class="col-sm-12 col-md-4 col-lg-3">
+<div class="col-xs-12 col-sm-4 col-md-3">
 <div id="TOC" class="tocify">
 </div>
 </div>
 
-<div class="toc-content col-sm-12 col-md-8 col-lg-9">
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -310,52 +310,29 @@ div.tocify {
       <ul class="nav navbar-nav">
         <li>
   <a href="index.html">
-    <span class="fas fa-home"></span>
+    <span class="fa fa-home"></span>
      
     Home
   </a>
 </li>
 <li>
-  <a href="about.html">
-    <span class="fas fa-user-check"></span>
+  <a href="resume.html">
+    <span class="fa fa-file"></span>
      
-    About Me
+    Resume
   </a>
-</li>
-<li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
-    <span class="fas fa-newspaper"></span>
-     
-    Blog
-     
-    <span class="caret"></span>
-  </a>
-  <ul class="dropdown-menu" role="menu">
-    <li>
-      <a href="post1.html">Post 1</a>
-    </li>
-    <li>
-      <a href="post2.html">Post 2</a>
-    </li>
-    <li>
-      <a href="post3.html">Post 3</a>
-    </li>
-    <li>
-      <a href="post4.html">Post 4</a>
-    </li>
-  </ul>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="mailto:mawilliams@smith.edu">
-    <span class="fas fa-envelope"></span>
+  <a href="mailto:williams.madison101@gmail.com">
+    <span class="fa fa-envelope"></span>
      
   </a>
 </li>
 <li>
   <a href="http://www.github.com/mawilliams99">
-    <span class="fas fa-github"></span>
+    <span class="fa fa-github"></span>
      
   </a>
 </li>
@@ -374,8 +351,38 @@ div.tocify {
 </div>
 
 
-<p>These first chapters of Data Feminism have caused me to think about the qualities of a good data scientist. Qualities that came to my mind were analytical, organized, and committed to doing unbiased analysis. This book has expanded my view of what a good data analyst needs to think about. A good data scientist is a data feminist and data feminists believe strongly in co-liberation. Co-liberation is the belief that liberating the oppressed within our society will liberate all of us. With the goal of co-liberation in mind we have to think about more than just the analytical side of data science. Better data analysis occurs when you take into account the culture and community of people behind the data. This is a difficult thing to do especially when many data scientists are from the dominant social group, often white and male. As data analysts we are also storytellers and we cannot tell a complete story while ignoring the cultural context. It is easier to just focus on the numbers but this book shows that that does not produce the best work. Data is incredibly powerful and it can be used as a tool for liberation. How can we begin to make the connection between data analysis projects and the communities which they are situated in? How can we use data analysis to assist current social justice work without continuing to silence those communities? How can we get the large numbers of male and often white data scientists interested in co-liberation? These are big questions. I think it is time for the data science community to have a conversation about what role we want to play. Scientific research about disadvantaged people often uses a community for their knowledge. This leaves communities in a similar position while furthering the careers of scientists. I’d like to live in a world where disadvantaged communities can connect with analysis without continuing to be oppressed and unheard.</p>
-<p>References: Catherine D’Ignazio and Lauren Klein.Data Feminism, The Power Chapter.(2020). Retrieved from <a href="https://data-feminism.mitpress.mit.edu/dash/pub/vi8obxh7/overview" class="uri">https://data-feminism.mitpress.mit.edu/dash/pub/vi8obxh7/overview</a></p>
+<p>These first chapters of Data Feminism have caused me to think about
+the qualities of a good data scientist. Qualities that came to my mind
+were analytical, organized, and committed to doing unbiased analysis.
+This book has expanded my view of what a good data analyst needs to
+think about. A good data scientist is a data feminist and data feminists
+believe strongly in co-liberation. Co-liberation is the belief that
+liberating the oppressed within our society will liberate all of us.
+With the goal of co-liberation in mind we have to think about more than
+just the analytical side of data science. Better data analysis occurs
+when you take into account the culture and community of people behind
+the data. This is a difficult thing to do especially when many data
+scientists are from the dominant social group, often white and male. As
+data analysts we are also storytellers and we cannot tell a complete
+story while ignoring the cultural context. It is easier to just focus on
+the numbers but this book shows that that does not produce the best
+work. Data is incredibly powerful and it can be used as a tool for
+liberation. How can we begin to make the connection between data
+analysis projects and the communities which they are situated in? How
+can we use data analysis to assist current social justice work without
+continuing to silence those communities? How can we get the large
+numbers of male and often white data scientists interested in
+co-liberation? These are big questions. I think it is time for the data
+science community to have a conversation about what role we want to
+play. Scientific research about disadvantaged people often uses a
+community for their knowledge. This leaves communities in a similar
+position while furthering the careers of scientists. I’d like to live in
+a world where disadvantaged communities can connect with analysis
+without continuing to be oppressed and unheard.</p>
+<p>References: Catherine D’Ignazio and Lauren Klein.Data Feminism, The
+Power Chapter.(2020). Retrieved from <a
+href="https://data-feminism.mitpress.mit.edu/dash/pub/vi8obxh7/overview"
+class="uri">https://data-feminism.mitpress.mit.edu/dash/pub/vi8obxh7/overview</a></p>
 
 
 
@@ -415,6 +422,9 @@ $(document).ready(function () {
 
 <script>
 $(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
 
     // move toc-ignore selectors from section div to header
     $('div.section.toc-ignore')
